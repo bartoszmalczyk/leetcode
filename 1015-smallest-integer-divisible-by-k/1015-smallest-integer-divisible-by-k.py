@@ -8,7 +8,3 @@ class Solution:
             else: counter += 1
             rest = (10 * rest + 1 ) % k
 
-            
-
-            
-    
