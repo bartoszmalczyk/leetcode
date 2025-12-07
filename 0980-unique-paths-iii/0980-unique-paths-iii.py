@@ -1,3 +1,4 @@
+from functools import lru_cache
 class Solution:
     def uniquePathsIII(self, grid: List[List[int]]) -> int:
         ans = [0]
@@ -19,7 +20,7 @@ class Solution:
                     walls_count += 1
         
         required_steps = m * n - walls_count
-        
+        #@lru_cache(maxsize = 256)
         def backtracking(r,c,steps):
             if r >= n or r < 0 or c >= m or c < 0:
                 return
