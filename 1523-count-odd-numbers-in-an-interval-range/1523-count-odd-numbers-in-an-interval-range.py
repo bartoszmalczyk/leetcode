@@ -1,9 +1,3 @@
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
-        if (low % 2 == 0 and high % 2 != 0) or (low % 2 !=0 and high % 2 == 0):
-            ans =  (high - low + 1) / 2
-        elif (low % 2 == 0 and high % 2 == 0):
-            ans = (high - low) / 2
-        else: 
-            ans =  (high - low) / 2 + 1 
-        return int(ans)
+        return ((high+1)//2)-(low//2)
