@@ -1,13 +1,17 @@
 class Solution:
     def shortestToChar(self, s: str, c: str) -> List[int]:
-        ans = [10001] * len(s)
-        zeros_position = []
-        for i in range(len(s)):
-            if s[i] == c:
-                ans[i] = 0
-                zeros_position.append(i)
+        n = len(s)
+        ans = [n] * n 
+        
 
-        for i in range(len(ans)):
-            for j in zeros_position:
-                ans[i] = min(ans[i], abs(j - i))
+        prev = -n 
+        for i in range(n):
+            if s[i] == c:
+                prev = i
+            ans[i] = i - prev 
+        prev = 2 * n 
+        for i in range(n - 1, -1, -1): 
+            if s[i] == c:
+                prev = i
+            ans[i] = min(ans[i], prev - i)
         return ans
