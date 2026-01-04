@@ -5,7 +5,9 @@ class Solution:
             for i in range(1, int(n**0.5) + 1):
                 if n % i == 0:
                     divs.add(i)
-                    divs.add(n // i)            
+                    divs.add(n // i)       
+                    if len(divs) > 4:
+                        return 0
             return sum(divs) if len(divs) == 4 else 0
         res = 0 
         for num in nums:
