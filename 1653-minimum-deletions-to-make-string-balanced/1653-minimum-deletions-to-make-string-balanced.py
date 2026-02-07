@@ -1,23 +1,17 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        b = [0]
-        a = [s.count('a')]
-        ans = float('inf')
+        b = 0
+        a = s.count('a')
+        ans = a
+
         for c in s:
-            if c == 'a':
-                a.append(a[-1] - 1)
-                b.append(b[-1])
-            else: #'b'
-                b.append(b[-1] + 1)
-                a.append(a[-1])
-        b = b[1:]
-        a.pop()
-        for i in range(len(s)):
-            ans = min(ans, a[i] + b[i])
-        return ans - 1
-            
-
-
+            if c == "a":
+                a -= 1
+            else:
+                b += 1
+            ans = min(ans, a + b)
+        return ans
+        
 
 """
 "aababbab"
