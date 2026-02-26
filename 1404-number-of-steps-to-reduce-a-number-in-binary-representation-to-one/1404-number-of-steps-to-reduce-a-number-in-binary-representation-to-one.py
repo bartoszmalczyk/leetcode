@@ -1,11 +1,11 @@
 class Solution:
     def numSteps(self, s: str) -> int:
-        n = int(s, 2)
+        s = int(s, 2)
         counter = 0 
-        while n != 1:
-            if (n & 1) == 0: 
-                n = n // 2
+        while s != 1:
+            if (s & 1) == 0: 
+                s = s // 2
             else: 
-                n += 1
+                s += 1
             counter += 1
         return counter
