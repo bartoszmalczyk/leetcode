@@ -5,5 +5,5 @@ class Solution:
             left = target - num
             if left in hm:
                 return [hm[left], i]
-            hm[left] = i
+            hm[num] = i
         
