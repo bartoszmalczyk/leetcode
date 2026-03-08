@@ -12,11 +12,6 @@ class Solution:
             if i not in nums_set:
                 sol = format(i, 'b')
                 break
+                
         return "0" * (n - len(sol)) + sol
-        ans = ""
-        for i in range(n - len(sol)):
-            ans += "0"
-        ans += sol
-
-        return ans
             
