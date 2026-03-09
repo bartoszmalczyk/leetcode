@@ -14,6 +14,7 @@ Collection of LeetCode questions.
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0704-binary-search](https://github.com/bmalczan/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions.
 | [0704-binary-search](https://github.com/bmalczan/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
