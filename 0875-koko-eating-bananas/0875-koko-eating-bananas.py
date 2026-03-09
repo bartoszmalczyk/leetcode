@@ -1,11 +1,11 @@
-import math
+
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         def canEat(k):
-            ans = 0
+            hours_needed = 0
             for i in piles:
-                ans += (math.ceil(i / k))
-                if ans > h:
+                hours_needed += (i + k - 1) // k
+                if hours_needed > h:
                     return False
             return True
         l = 1
