@@ -4,6 +4,6 @@ class Solution:
         for i, num in enumerate(nums):
             left = target - num
             if left in hashmap:
-                return [hm[left], i]
-            hm[num] = i
+                return [hashmap[left], i]
+            hashmap[num] = i
         
