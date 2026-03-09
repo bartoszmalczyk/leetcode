@@ -9,8 +9,8 @@ class Solution:
                     return False
             return True
         l = 1
-        r = 10**9
-        ans = 10**9
+        r = max(piles)
+        ans = r
         while l <= r:
             mid = (l + r) // 2
             temp = canEat(mid)
