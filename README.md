@@ -8,6 +8,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0461-hamming-distance](https://github.com/bmalczan/leetcode/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/bmalczan/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/bmalczan/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
