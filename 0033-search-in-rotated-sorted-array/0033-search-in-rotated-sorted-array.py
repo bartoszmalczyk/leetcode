@@ -11,7 +11,7 @@ class Solution:
                 else:
                     l = mid + 1
                 # [7,0,1,2,4,5,6]
-            if nums[r] >= nums[mid]: #right side is sorted
+            elif nums[r] >= nums[mid]: #right side is sorted
                 if nums[mid] <= target and nums[r] >= target:
                     l = mid + 1
                 else:
