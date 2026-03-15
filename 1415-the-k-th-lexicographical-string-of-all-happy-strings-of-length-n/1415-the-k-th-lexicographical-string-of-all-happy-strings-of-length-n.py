@@ -6,7 +6,9 @@ class Solution:
         def backtracking(sol):
             nonlocal counter
             if len(sol) == n:
-                res.append(sol[:])
+                if counter == k:
+                    res.append(sol[:])
+                counter += 1
                 return
             for x in letters:
                 if not sol:
@@ -20,21 +22,7 @@ class Solution:
                         sol.pop()
         backtracking([])
         print(res)
-        if len(res) < k: 
+        if len(res) == 0: 
             return ""
         else: 
-            return "".join(res[k - 1])
-"""
-[['a', 'b', 'a'], 
-['a', 'b', 'c'], 
-['a', 'c', 'a'], 
-['a', 'c', 'b'], 
-['b', 'a', 'b'], 
-['b', 'a', 'c'], 
-['b', 'c', 'a'], 
-['b', 'c', 'b'], 
-['c', 'a', 'b'], 
-['c', 'a', 'c'], 
-['c', 'b', 'a'], 
-['c', 'b', 'c']]
-"""
+            return "".join(res[0])
