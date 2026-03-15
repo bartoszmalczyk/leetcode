@@ -12,15 +12,12 @@ class Solution:
                 counter += 1
                 return
             for x in letters:
-                if not sol:
+                if not sol or sol[-1] != x:
                     sol.append(x)
                     backtracking(sol)
                     sol.pop()
-                else:
-                    if sol[-1] != x:
-                        sol.append(x)
-                        backtracking(sol)
-                        sol.pop()
+                if res: 
+                    return
         backtracking([])
         if len(res) == 0: 
             return ""
