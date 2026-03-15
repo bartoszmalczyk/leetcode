@@ -7,17 +7,18 @@ class Solution:
             nonlocal counter
             if len(sol) == n:
                 if counter == k:
-                    res.append(sol[:])
-                    return 
+                    res.append("".join(sol[:]))
+                    return True
                 counter += 1
-                return
+                return False
+
             for x in letters:
                 if not sol or sol[-1] != x:
                     sol.append(x)
-                    backtracking(sol)
+                    if backtracking(sol):
+                        return True
                     sol.pop()
-                if res: 
-                    return
+            return False
         backtracking([])
         if len(res) == 0: 
             return ""
