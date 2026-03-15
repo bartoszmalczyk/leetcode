@@ -8,6 +8,7 @@ class Solution:
             if len(sol) == n:
                 if counter == k:
                     res.append(sol[:])
+                    return 
                 counter += 1
                 return
             for x in letters:
@@ -21,7 +22,6 @@ class Solution:
                         backtracking(sol)
                         sol.pop()
         backtracking([])
-        print(res)
         if len(res) == 0: 
             return ""
         else: 
