@@ -10,6 +10,7 @@ Collection of LeetCode questions.
 | [0461-hamming-distance](https://github.com/bmalczan/leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/bmalczan/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/bmalczan/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,5 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/bmalczan/leetcode/tree/main/0507-perfect-number/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
