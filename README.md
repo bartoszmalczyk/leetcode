@@ -61,6 +61,7 @@ Collection of LeetCode questions.
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1550-three-consecutive-odds](https://github.com/bmalczan/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
