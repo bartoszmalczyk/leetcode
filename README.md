@@ -25,11 +25,13 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
