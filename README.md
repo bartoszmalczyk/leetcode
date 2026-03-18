@@ -51,6 +51,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +131,5 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/bmalczan/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 <!---LeetCode Topics End-->
