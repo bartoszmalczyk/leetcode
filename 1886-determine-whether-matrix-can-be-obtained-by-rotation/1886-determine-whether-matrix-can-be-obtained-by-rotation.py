@@ -4,7 +4,7 @@ class Solution:
         mat = np.array(mat)
         target = np.array(target)
 
-        for _ in range(3):
+        for _ in range(4):
             mat = np.rot90(mat)
             if np.array_equal(mat,target):
                 return True
