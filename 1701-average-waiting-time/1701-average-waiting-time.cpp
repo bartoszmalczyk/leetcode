@@ -1,7 +1,7 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {
-        float waiting = 0;
+        double waiting = 0;
         int last_finish = customers[0][0];
         for (int i = 0; i < customers.size(); i++){
             int extra_time = 0;
