@@ -58,6 +58,7 @@ Collection of LeetCode questions.
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1701-average-waiting-time](https://github.com/bmalczan/leetcode/tree/main/1701-average-waiting-time/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bmalczan/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1701-average-waiting-time](https://github.com/bmalczan/leetcode/tree/main/1701-average-waiting-time/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bmalczan/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bmalczan/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
