@@ -9,6 +9,7 @@ class Solution:
             for j in range(n): 
                 dp[i].append([-1, 1])
         dp[0][0] = (grid[0][0], grid[0][0])
+
         for i in range(m):
             for j in range(n):
                 val = grid[i][j]
@@ -23,6 +24,7 @@ class Solution:
                 else:
                     dp[i][j][0] = min(dp[i - 1][j][0] * val, dp[i - 1][j][1] * val, dp[i][j - 1][0] * val, dp[i][j - 1][1] * val)
                     dp[i][j][1] = max(dp[i][j - 1][0] * val, dp[i][j - 1][1] * val, dp[i - 1][j][0] * val, dp[i - 1][j][1] * val)
+                    
         ans = dp[m - 1][n - 1][1]
         if ans < 0: return -1
         else: return ans % MOD
