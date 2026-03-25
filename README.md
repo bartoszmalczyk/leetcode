@@ -81,6 +81,7 @@ Collection of LeetCode questions.
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bmalczan/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bmalczan/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bmalczan/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/bmalczan/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bmalczan/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions.
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bmalczan/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bmalczan/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +175,8 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
