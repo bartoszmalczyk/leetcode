@@ -16,7 +16,7 @@ class Solution:
         if sum_ % 2 != 0:
             return False
 
-        for row in pre_rows[:-1]:
+        for row in pre_rows:
             if row == sum_ - row: return True
 
         pre_col = [0]
