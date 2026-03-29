@@ -46,6 +46,7 @@ Collection of LeetCode questions.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bmalczan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bmalczan/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
