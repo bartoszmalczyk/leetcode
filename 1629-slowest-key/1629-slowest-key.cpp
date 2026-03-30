@@ -9,7 +9,7 @@ public:
                 max_ = temp;
                 index = i;
             }
-            else if (temp == max){
+            else if (temp == max_){
                 if (keysPressed[i] > keysPressed[index]){
                     index = i;
                 }
