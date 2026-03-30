@@ -42,6 +42,7 @@ Collection of LeetCode questions.
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bmalczan/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1629-slowest-key](https://github.com/bmalczan/leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bmalczan/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bmalczan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions.
 | [1550-three-consecutive-odds](https://github.com/bmalczan/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1629-slowest-key](https://github.com/bmalczan/leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bmalczan/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1701-average-waiting-time](https://github.com/bmalczan/leetcode/tree/main/1701-average-waiting-time/) | Medium |
