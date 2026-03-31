@@ -167,6 +167,7 @@ Collection of LeetCode questions.
 | [0507-perfect-number](https://github.com/bmalczan/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/bmalczan/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bmalczan/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bmalczan/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Number Theory
