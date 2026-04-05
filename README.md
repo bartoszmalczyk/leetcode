@@ -40,6 +40,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/bmalczan/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bmalczan/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1629-slowest-key](https://github.com/bmalczan/leetcode/tree/main/1629-slowest-key/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/bmalczan/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
