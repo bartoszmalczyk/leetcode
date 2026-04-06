@@ -23,7 +23,7 @@ class Solution:
                         position = next_pos
                     else:
                         break
-                    max_distance = max(max_distance, position[0]**2 + position[1]**2)
+                max_distance = max(max_distance, position[0]**2 + position[1]**2)
         return max_distance
 
 
