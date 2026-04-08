@@ -79,6 +79,7 @@ Collection of LeetCode questions.
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0896-monotonic-array](https://github.com/bmalczan/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bmalczan/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/bmalczan/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
