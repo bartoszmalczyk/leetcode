@@ -9,7 +9,7 @@ public:
                 if(nums[i + 1] < nums[i]){return false;}
             }
             else{
-                if (nums[i + 1] > nums[i]{return false}
+                if (nums[i + 1] > nums[i]){return false;}
             }
 
         }
