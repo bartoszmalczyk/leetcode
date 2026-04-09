@@ -1,9 +1,7 @@
 #include <string>
 using namespace std;
 class Solution {
-public:
-    string firstPalindrome(vector<string>& words) {
-        bool isPalindromic(string s){
+    bool isPalindromic(string s){
             int l = 0;
             int r = s.size() - 1;
             while (l <= r){
@@ -11,8 +9,10 @@ public:
                 l++;
                 r--;
             }
-            return true
+            return true;
         }
+public:
+    string firstPalindrome(vector<string>& words){
         for (int i = 0; i < words.size(); i++){
             if (isPalindromic(words[i])){
                 return words[i];
