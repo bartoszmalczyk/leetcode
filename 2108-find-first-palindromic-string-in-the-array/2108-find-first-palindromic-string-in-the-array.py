@@ -8,7 +8,7 @@ class Solution:
                 r-=1
             return True
         for word in words:
-            if is_palindromic(word):
+            if word == word[::-1]:
                 return word
         return ""
 
