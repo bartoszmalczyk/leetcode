@@ -100,6 +100,7 @@ Collection of LeetCode questions.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bmalczan/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bmalczan/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bmalczan/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bmalczan/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bmalczan/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
