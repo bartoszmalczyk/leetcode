@@ -12,5 +12,5 @@ class Solution:
             r_steps += 1
 
             if l == target or r == target:
-                min(l_steps, r_steps)
+                return min(l_steps, r_steps)
         return -1
