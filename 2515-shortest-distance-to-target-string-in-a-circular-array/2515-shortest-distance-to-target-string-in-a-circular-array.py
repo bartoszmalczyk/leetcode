@@ -11,6 +11,8 @@ class Solution:
             l_steps += 1
             r_steps += 1
 
-            if l == target or r == target:
-                min(l_steps, r_steps)
+            if l == target:
+                return l_steps
+            if r == target:
+                return r_steps
         return -1
