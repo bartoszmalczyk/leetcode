@@ -5,8 +5,6 @@ class Solution {
 public:
     int maxDistance(std::vector<int>& nums1, std::vector<int>& nums2) {
         int ans = 0;
-        
-        // Let's use int for the size to avoid type mismatch issues later
         int n1 = nums1.size(); 
         
         for (int index = 0; index < nums2.size(); index++) {
