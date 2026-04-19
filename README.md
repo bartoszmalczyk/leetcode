@@ -197,6 +197,7 @@ Collection of LeetCode questions.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bmalczan/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bmalczan/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bmalczan/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/bmalczan/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
