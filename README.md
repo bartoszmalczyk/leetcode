@@ -21,6 +21,7 @@ Collection of LeetCode questions.
 | [0704-binary-search](https://github.com/bmalczan/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/bmalczan/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions.
 | [1672-richest-customer-wealth](https://github.com/bmalczan/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1701-average-waiting-time](https://github.com/bmalczan/leetcode/tree/main/1701-average-waiting-time/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bmalczan/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/bmalczan/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bmalczan/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bmalczan/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -161,6 +163,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/bmalczan/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bmalczan/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
