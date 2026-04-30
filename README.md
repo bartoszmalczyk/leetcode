@@ -51,6 +51,7 @@ Collection of LeetCode questions.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bmalczan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/bmalczan/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bmalczan/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bmalczan/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bmalczan/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/bmalczan/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions.
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bmalczan/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/bmalczan/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bmalczan/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
