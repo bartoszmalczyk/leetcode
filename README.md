@@ -11,6 +11,7 @@ Collection of LeetCode questions.
 | [0476-number-complement](https://github.com/bmalczan/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/bmalczan/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/bmalczan/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
