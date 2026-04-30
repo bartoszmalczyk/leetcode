@@ -4,6 +4,3 @@ class Solution:
         ans = start ^ goal 
         return ans.bit_count()
 
-        # 
-        # 
-        /
