@@ -81,6 +81,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bmalczan/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmalczan/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bmalczan/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -220,6 +222,7 @@ Collection of LeetCode questions.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/bmalczan/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
