@@ -40,6 +40,7 @@ Collection of LeetCode questions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bmalczan/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/bmalczan/leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bmalczan/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bmalczan/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -165,6 +167,7 @@ Collection of LeetCode questions.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bmalczan/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
