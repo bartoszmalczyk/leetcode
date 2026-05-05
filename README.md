@@ -81,6 +81,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bmalczan/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/bmalczan/leetcode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/bmalczan/leetcode/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/bmalczan/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -203,6 +205,7 @@ Collection of LeetCode questions.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/bmalczan/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
