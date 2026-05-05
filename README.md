@@ -85,6 +85,7 @@ Collection of LeetCode questions.
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/bmalczan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmalczan/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/bmalczan/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bmalczan/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -250,6 +251,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/bmalczan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmalczan/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/bmalczan/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
