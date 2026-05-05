@@ -10,9 +10,7 @@ class Solution:
             cur_max = max(temp, cur_min * n, n)
             cur_min = min(temp, cur_min * n, n)
 
-            if num == 0:
-                cur_max = cur_min = 1
-            res = max(res, cur_)
+            res = max(res, cur_max)
         return res
         
 
