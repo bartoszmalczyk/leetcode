@@ -86,6 +86,7 @@ Collection of LeetCode questions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmalczan/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/bmalczan/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bmalczan/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/bmalczan/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -163,6 +164,7 @@ Collection of LeetCode questions.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bmalczan/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bmalczan/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bmalczan/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
