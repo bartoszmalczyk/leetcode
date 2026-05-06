@@ -98,6 +98,7 @@ Collection of LeetCode questions.
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/bmalczan/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/bmalczan/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/bmalczan/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bmalczan/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -302,4 +304,8 @@ Collection of LeetCode questions.
 | [0182-duplicate-emails](https://github.com/bmalczan/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/bmalczan/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/bmalczan/leetcode/tree/main/0197-rising-temperature/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/bmalczan/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
