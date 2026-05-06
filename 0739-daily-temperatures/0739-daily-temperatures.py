@@ -4,12 +4,12 @@ class Solution:
         stack = []
         for index, val in enumerate(temperatures):
             if not stack:
-                stack.append(tuple([val, index]))
+                stack.append([val, index])
             while stack[-1][0] < val:
                 v, i = stack.pop()
                 results[i] = index - i
                 if not stack: break
-            stack.append(tuple([val, index]))
+            stack.append([val, index])
         return results
 
          
