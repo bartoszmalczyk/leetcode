@@ -89,6 +89,7 @@ Collection of LeetCode questions.
 | [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/bmalczan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/bmalczan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmalczan/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/bmalczan/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0015-3sum](https://github.com/bmalczan/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/bmalczan/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
