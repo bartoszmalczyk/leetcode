@@ -10,15 +10,15 @@ class Solution:
             if curr == prev:
                 temp += 1
             else:
-                sol.append([temp, prev]) # number of occourences, number 
+                sol.append(temp) # number of occourences, number 
                 temp = 1
                 prev = curr
-        sol.append([temp, s[-1]])
+        sol.append(temp)
         
         ans = 0
         for i in range(len(sol) - 1):
-            curr_occur = sol[i][0]
-            nxt_occour = sol[i + 1][0]
+            curr_occur = sol[i]
+            nxt_occour = sol[i + 1]
 
             ans += min(curr_occur, nxt_occour)
         return ans
