@@ -18,11 +18,8 @@ class Solution:
         ans = 0
         for i in range(len(sol) - 1):
             curr_occur = sol[i][0]
-            curr_nbr = sol[i][1]
             nxt_occour = sol[i + 1][0]
-            nxt_nbr = sol[i + 1][1]
 
-            if curr_nbr != nxt_nbr:
-                ans += min(curr_occur, nxt_occour)
+            ans += min(curr_occur, nxt_occour)
         return ans
             
