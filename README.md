@@ -127,6 +127,7 @@ Collection of LeetCode questions.
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bmalczan/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bmalczan/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bmalczan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/bmalczan/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bmalczan/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions.
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bmalczan/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -233,6 +235,7 @@ Collection of LeetCode questions.
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
