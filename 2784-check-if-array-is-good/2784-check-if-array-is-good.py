@@ -4,14 +4,14 @@ class Solution:
         ones_counter = 0 
         two_counter = 0
         hm = Counter(nums)
-        
+
         for i in range(1, len(nums) - 1):
             if hm[i] != 1:
                 return False
+
         if hm[len(nums) - 1] == 2:
             return True
-        else:
-            return False
+        return False
 
         
         
