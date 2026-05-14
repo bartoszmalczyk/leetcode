@@ -6,7 +6,6 @@ class Solution:
         hm = defaultdict(int)
         for num in nums:
             hm[num] += 1
-        print(hm)
         for i in range(1, len(nums) - 1):
             if hm[i] != 1:
                 return False
