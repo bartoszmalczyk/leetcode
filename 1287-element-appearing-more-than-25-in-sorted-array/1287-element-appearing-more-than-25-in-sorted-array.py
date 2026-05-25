@@ -1,5 +1,4 @@
 from collections import Counter
-from math import ceil
 class Solution:
     def findSpecialInteger(self, arr: List[int]) -> int:
         hm = Counter(arr)
