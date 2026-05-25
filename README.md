@@ -110,6 +110,7 @@ Collection of LeetCode questions.
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/bmalczan/leetcode/tree/main/0896-monotonic-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bmalczan/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/bmalczan/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -221,6 +222,7 @@ Collection of LeetCode questions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/bmalczan/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bmalczan/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bmalczan/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bmalczan/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -241,6 +243,7 @@ Collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
