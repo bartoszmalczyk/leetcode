@@ -65,6 +65,7 @@ Collection of LeetCode questions.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bmalczan/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bmalczan/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bmalczan/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/bmalczan/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions.
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/bmalczan/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bmalczan/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bmalczan/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
