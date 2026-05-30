@@ -47,6 +47,7 @@ Collection of LeetCode questions.
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
+| [0520-detect-capital](https://github.com/bmalczan/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/bmalczan/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/bmalczan/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
