@@ -7,6 +7,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0389-find-the-difference](https://github.com/bmalczan/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/bmalczan/leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/bmalczan/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/bmalczan/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions.
 | [0125-valid-palindrome](https://github.com/bmalczan/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/bmalczan/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/bmalczan/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/bmalczan/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -195,6 +197,7 @@ Collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/bmalczan/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0525-contiguous-array](https://github.com/bmalczan/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/bmalczan/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -280,6 +283,7 @@ Collection of LeetCode questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/bmalczan/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
