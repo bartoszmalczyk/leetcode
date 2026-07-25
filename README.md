@@ -117,6 +117,7 @@ Collection of LeetCode questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bmalczan/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0495-teemo-attacking](https://github.com/bmalczan/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0525-contiguous-array](https://github.com/bmalczan/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bmalczan/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -223,6 +224,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/bmalczan/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/bmalczan/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/bmalczan/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -384,4 +386,8 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
