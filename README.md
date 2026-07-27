@@ -136,6 +136,7 @@ Collection of LeetCode questions.
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bmalczan/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bmalczan/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/bmalczan/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions.
 | [0389-find-the-difference](https://github.com/bmalczan/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -359,6 +361,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
