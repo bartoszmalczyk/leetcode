@@ -120,6 +120,7 @@ Collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bmalczan/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0414-third-maximum-number](https://github.com/bmalczan/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0495-teemo-attacking](https://github.com/bmalczan/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0525-contiguous-array](https://github.com/bmalczan/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bmalczan/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bmalczan/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/bmalczan/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
