@@ -64,6 +64,7 @@ Collection of LeetCode questions.
 | [0657-robot-return-to-origin](https://github.com/bmalczan/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/bmalczan/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bmalczan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bmalczan/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions.
 | [0704-binary-search](https://github.com/bmalczan/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/bmalczan/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -204,6 +206,7 @@ Collection of LeetCode questions.
 | [0525-contiguous-array](https://github.com/bmalczan/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/bmalczan/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bmalczan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
@@ -379,6 +382,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bmalczan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bmalczan/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
