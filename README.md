@@ -31,6 +31,7 @@ Collection of LeetCode questions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bmalczan/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bmalczan/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bmalczan/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
@@ -303,6 +305,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bmalczan/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bmalczan/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -317,6 +320,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Math
 | Problem Name | Difficulty |
