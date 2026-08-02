@@ -137,6 +137,7 @@ Collection of LeetCode questions.
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/bmalczan/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/bmalczan/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/bmalczan/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -333,6 +334,7 @@ Collection of LeetCode questions.
 | [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/bmalczan/leetcode/tree/main/0507-perfect-number/) | Easy |
+| [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bmalczan/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -362,6 +364,7 @@ Collection of LeetCode questions.
 | [0120-triangle](https://github.com/bmalczan/leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmalczan/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/bmalczan/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -414,4 +417,8 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
