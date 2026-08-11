@@ -130,6 +130,7 @@ Collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/bmalczan/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bmalczan/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0384-shuffle-an-array](https://github.com/bmalczan/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/bmalczan/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0495-teemo-attacking](https://github.com/bmalczan/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0525-contiguous-array](https://github.com/bmalczan/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -341,6 +342,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/bmalczan/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0384-shuffle-an-array](https://github.com/bmalczan/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/bmalczan/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -427,6 +429,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0384-shuffle-an-array](https://github.com/bmalczan/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,4 +438,8 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0384-shuffle-an-array](https://github.com/bmalczan/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 <!---LeetCode Topics End-->
