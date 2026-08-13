@@ -59,6 +59,7 @@ Collection of LeetCode questions.
 | [0012-integer-to-roman](https://github.com/bmalczan/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/bmalczan/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/bmalczan/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/bmalczan/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -262,6 +263,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/bmalczan/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bmalczan/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/bmalczan/leetcode/tree/main/0739-daily-temperatures/) | Medium |
