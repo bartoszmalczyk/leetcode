@@ -1,9 +1,7 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
         stack = []
-        dot_counter = 0
         temp = path.split("/")
-        print(stack)
 
         stack = []
         for name in temp:
@@ -25,8 +23,3 @@ class Solution:
                 do_flash = True
         return ans
             
-            
-
-
-
-                    
