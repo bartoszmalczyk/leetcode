@@ -77,6 +77,7 @@ Collection of LeetCode questions.
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1629-slowest-key](https://github.com/bmalczan/leetcode/tree/main/1629-slowest-key/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bmalczan/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bmalczan/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bmalczan/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -414,6 +415,7 @@ Collection of LeetCode questions.
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bmalczan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bmalczan/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bmalczan/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Database
