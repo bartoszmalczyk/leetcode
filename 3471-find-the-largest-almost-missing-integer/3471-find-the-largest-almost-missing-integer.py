@@ -7,11 +7,11 @@ class Solution:
             temp = set(nums[j:j + k])
             for i in temp:
                 counter[i] += 1
-        potential = []
+        max_ = -1
         for k, v in counter.items():
             if v == 1:
-                potential.append(k)
-        return -1 if not potential else max(potential)
+                max_ = max(max_, k)
+        return max_
 
 
 
