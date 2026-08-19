@@ -11,6 +11,7 @@ Collection of LeetCode questions.
 | [0461-hamming-distance](https://github.com/bmalczan/leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/bmalczan/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/bmalczan/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bmalczan/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Binary Search
@@ -157,6 +158,7 @@ Collection of LeetCode questions.
 | [1002-find-common-characters](https://github.com/bmalczan/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/bmalczan/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bmalczan/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bmalczan/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -232,6 +234,7 @@ Collection of LeetCode questions.
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1002-find-common-characters](https://github.com/bmalczan/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bmalczan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -312,6 +315,7 @@ Collection of LeetCode questions.
 | [0011-container-with-most-water](https://github.com/bmalczan/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bmalczan/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
