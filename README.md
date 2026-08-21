@@ -317,6 +317,7 @@ Collection of LeetCode questions.
 | [0011-container-with-most-water](https://github.com/bmalczan/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1323-maximum-69-number](https://github.com/bmalczan/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bmalczan/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Sorting
@@ -376,6 +377,7 @@ Collection of LeetCode questions.
 | [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/bmalczan/leetcode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bmalczan/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1323-maximum-69-number](https://github.com/bmalczan/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/bmalczan/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
