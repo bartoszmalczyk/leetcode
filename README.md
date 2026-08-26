@@ -94,6 +94,7 @@ Collection of LeetCode questions.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bmalczan/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bmalczan/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bmalczan/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bmalczan/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bmalczan/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bmalczan/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bmalczan/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -265,6 +266,7 @@ Collection of LeetCode questions.
 | [0567-permutation-in-string](https://github.com/bmalczan/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/bmalczan/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/bmalczan/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bmalczan/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bmalczan/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
