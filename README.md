@@ -172,6 +172,7 @@ Collection of LeetCode questions.
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1629-slowest-key](https://github.com/bmalczan/leetcode/tree/main/1629-slowest-key/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/bmalczan/leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bmalczan/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1701-average-waiting-time](https://github.com/bmalczan/leetcode/tree/main/1701-average-waiting-time/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/bmalczan/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -346,6 +347,7 @@ Collection of LeetCode questions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/bmalczan/leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bmalczan/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Depth-First Search
