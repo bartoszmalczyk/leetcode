@@ -113,6 +113,7 @@ Collection of LeetCode questions.
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bmalczan/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1603-design-parking-system](https://github.com/bmalczan/leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1701-average-waiting-time](https://github.com/bmalczan/leetcode/tree/main/1701-average-waiting-time/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/bmalczan/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -451,6 +452,7 @@ Collection of LeetCode questions.
 | [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bmalczan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/bmalczan/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1603-design-parking-system](https://github.com/bmalczan/leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/bmalczan/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/bmalczan/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -476,6 +478,7 @@ Collection of LeetCode questions.
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0384-shuffle-an-array](https://github.com/bmalczan/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [1603-design-parking-system](https://github.com/bmalczan/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
