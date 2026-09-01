@@ -79,6 +79,7 @@ Collection of LeetCode questions.
 | [1189-maximum-number-of-balloons](https://github.com/bmalczan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bmalczan/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
+| [1528-shuffle-string](https://github.com/bmalczan/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bmalczan/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1629-slowest-key](https://github.com/bmalczan/leetcode/tree/main/1629-slowest-key/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions.
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bmalczan/leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/bmalczan/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/bmalczan/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/bmalczan/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
