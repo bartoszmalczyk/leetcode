@@ -105,6 +105,7 @@ Collection of LeetCode questions.
 | [0021-merge-two-sorted-lists](https://github.com/bmalczan/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bmalczan/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bmalczan/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bmalczan/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bmalczan/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bmalczan/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/bmalczan/leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/bmalczan/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -252,6 +254,7 @@ Collection of LeetCode questions.
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bmalczan/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/bmalczan/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/bmalczan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -354,6 +357,7 @@ Collection of LeetCode questions.
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/bmalczan/leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bmalczan/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Depth-First Search
@@ -431,6 +435,7 @@ Collection of LeetCode questions.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
