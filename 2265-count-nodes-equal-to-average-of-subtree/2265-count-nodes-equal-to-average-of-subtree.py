@@ -17,8 +17,6 @@ class Solution:
             val, ammount = left[0] + right[0], left[1] + right[1]
             ammount += 1
             val += node.val
-            print(val, ammount)
-            print("")
             if val // ammount == node.val:
                 ans += 1
             return [val, ammount]
