@@ -213,6 +213,7 @@ Collection of LeetCode questions.
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bmalczan/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bmalczan/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/bmalczan/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/bmalczan/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/bmalczan/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -232,6 +233,7 @@ Collection of LeetCode questions.
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bmalczan/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/bmalczan/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,4 +532,8 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bmalczan/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/bmalczan/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
