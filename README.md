@@ -402,6 +402,7 @@ Collection of LeetCode questions.
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/bmalczan/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bmalczan/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/bmalczan/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/bmalczan/leetcode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bmalczan/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -527,6 +528,7 @@ Collection of LeetCode questions.
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/bmalczan/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/bmalczan/leetcode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
