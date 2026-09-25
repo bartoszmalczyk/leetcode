@@ -101,6 +101,7 @@ Collection of LeetCode questions.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bmalczan/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bmalczan/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bmalczan/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/bmalczan/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions.
 | [2352-equal-row-and-column-pairs](https://github.com/bmalczan/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/bmalczan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bmalczan/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/bmalczan/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/bmalczan/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Array
 | Problem Name | Difficulty |
