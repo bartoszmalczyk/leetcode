@@ -3,9 +3,9 @@ class Solution:
         stack = []
         ans = 0
         for i in s:
-            if i == ")":
-                stack.pop()
-            elif i == "(":
+            if i == "(":
                 stack.append("(")
-                ans = max(ans, len(stack))
+            elif i == ")":
+                stack.pop()
+            ans = max(ans, len(stack))
         return ans
