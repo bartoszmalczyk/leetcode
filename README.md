@@ -32,6 +32,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bmalczan/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bmalczan/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bmalczan/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bmalczan/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/bmalczan/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -313,6 +315,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/bmalczan/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bmalczan/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bmalczan/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/bmalczan/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -377,6 +380,7 @@ Collection of LeetCode questions.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bmalczan/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bmalczan/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -435,6 +439,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bmalczan/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bmalczan/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bmalczan/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/bmalczan/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bmalczan/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
