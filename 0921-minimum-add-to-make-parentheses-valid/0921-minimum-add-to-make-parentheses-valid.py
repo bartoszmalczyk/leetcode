@@ -5,14 +5,14 @@ class Solution(object):
         :rtype: int
         """
         ans = 0
-        stack = []
+        open_brackets = 0 
         for i in s:
             if i == '(':
-                stack.append(i)
+                open_brackets += 1
             else:
-                if stack:
-                    stack.pop()
+                if open_brackets:
+                    open_brackets -= 1
                 else:
                     ans += 1
-        ans += len(stack)
+        ans += open_brackets
         return ans
