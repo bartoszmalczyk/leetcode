@@ -72,6 +72,7 @@ Collection of LeetCode questions.
 | [0125-valid-palindrome](https://github.com/bmalczan/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/bmalczan/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/bmalczan/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/bmalczan/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/bmalczan/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0504-base-7](https://github.com/bmalczan/leetcode/tree/main/0504-base-7/) | Easy |
@@ -317,6 +318,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bmalczan/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bmalczan/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Stack
@@ -410,6 +412,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 ## Binary Search Tree
