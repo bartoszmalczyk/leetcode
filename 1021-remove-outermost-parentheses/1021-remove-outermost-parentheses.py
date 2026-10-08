@@ -12,7 +12,6 @@ class Solution:
         prev = 0
         ans = ""
         for i in decomposition:
-            print(s[prev:i + 1])
             ans += s[prev + 1:i]
             prev = i + 1
         return ans
