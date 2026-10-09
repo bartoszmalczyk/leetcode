@@ -5,12 +5,9 @@
 #         self.left = left
 #         self.right = right
 from collections import defaultdict 
-from functools import cache
 class Solution:
-
     def findFrequentTreeSum(self, root: TreeNode | None) -> list[int]:
         ans = []
-        @cache
         def solution(node):
             if not node:
                 return 0 
@@ -19,10 +16,8 @@ class Solution:
             return x
         solution(root)
         x = Counter(ans)
-        most_frequent = max(set(ans), key=ans.count)
-        sol = []
-        for v, _ in x.items():
-            if x[v] == x[most_frequent]:
-                sol.append(v)
-        return sol
+        max_freq = max(x.values())
+        most_frequent = [k for k, v in x.items() if v == max_freq]
+        return most_frequent
 
+        
