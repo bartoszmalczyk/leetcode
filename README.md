@@ -83,6 +83,7 @@ Collection of LeetCode questions.
 | [0678-valid-parenthesis-string](https://github.com/bmalczan/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/bmalczan/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0796-rotate-string](https://github.com/bmalczan/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0856-score-of-parentheses](https://github.com/bmalczan/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bmalczan/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -560,6 +561,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/bmalczan/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/bmalczan/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
