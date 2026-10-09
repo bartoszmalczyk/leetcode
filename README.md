@@ -80,6 +80,7 @@ Collection of LeetCode questions.
 | [0567-permutation-in-string](https://github.com/bmalczan/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/bmalczan/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/bmalczan/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/bmalczan/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0819-most-common-word](https://github.com/bmalczan/leetcode/tree/main/0819-most-common-word/) | Easy |
@@ -332,6 +333,7 @@ Collection of LeetCode questions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bmalczan/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bmalczan/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/bmalczan/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/bmalczan/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/bmalczan/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bmalczan/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -369,6 +371,7 @@ Collection of LeetCode questions.
 | [0011-container-with-most-water](https://github.com/bmalczan/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/bmalczan/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0611-valid-triangle-number](https://github.com/bmalczan/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/bmalczan/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bmalczan/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bmalczan/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1323-maximum-69-number](https://github.com/bmalczan/leetcode/tree/main/1323-maximum-69-number/) | Easy |
@@ -479,6 +482,7 @@ Collection of LeetCode questions.
 | [0120-triangle](https://github.com/bmalczan/leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmalczan/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/bmalczan/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/bmalczan/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Enumeration
@@ -575,6 +579,7 @@ Collection of LeetCode questions.
 | [0020-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/bmalczan/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/bmalczan/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/bmalczan/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bmalczan/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/bmalczan/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
