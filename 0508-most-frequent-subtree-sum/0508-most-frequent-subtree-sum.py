@@ -4,10 +4,13 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import Counter
+from collections import defaultdict 
+from functools import cache
 class Solution:
+
     def findFrequentTreeSum(self, root: TreeNode | None) -> list[int]:
         ans = []
+        @cache
         def solution(node):
             if not node:
                 return 0 
