@@ -27,6 +27,7 @@ Collection of LeetCode questions.
 | [0875-koko-eating-bananas](https://github.com/bmalczan/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/bmalczan/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bmalczan/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bmalczan/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/bmalczan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@ Collection of LeetCode questions.
 | [2094-finding-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bmalczan/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/bmalczan/leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bmalczan/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/bmalczan/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bmalczan/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bmalczan/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -382,6 +384,7 @@ Collection of LeetCode questions.
 | [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bmalczan/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bmalczan/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bmalczan/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,6 +406,7 @@ Collection of LeetCode questions.
 | [1636-sort-array-by-increasing-frequency](https://github.com/bmalczan/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/bmalczan/leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bmalczan/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bmalczan/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/bmalczan/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -507,6 +511,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bmalczan/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
