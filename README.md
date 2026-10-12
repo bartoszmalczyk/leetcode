@@ -14,6 +14,7 @@ Collection of LeetCode questions.
 | [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bmalczan/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ Collection of LeetCode questions.
 | [2553-separate-the-digits-in-an-array](https://github.com/bmalczan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bmalczan/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/bmalczan/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bmalczan/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -290,6 +292,7 @@ Collection of LeetCode questions.
 | [2352-equal-row-and-column-pairs](https://github.com/bmalczan/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/bmalczan/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bmalczan/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bmalczan/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bmalczan/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -386,6 +389,7 @@ Collection of LeetCode questions.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bmalczan/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bmalczan/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bmalczan/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
