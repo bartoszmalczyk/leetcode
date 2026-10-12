@@ -12,6 +12,6 @@ class Solution:
             for i in range(len(bits) - 1, -1, -1):
                 if bits[i] != 0:
                     bits[i] -= 1
-                    temp += 2 ** i
-            ans += temp ** 2
+                    temp += 1 << i 
+            ans += temp * temp 
         return ans % (10**9 + 7)
