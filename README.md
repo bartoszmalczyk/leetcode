@@ -391,6 +391,7 @@ Collection of LeetCode questions.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bmalczan/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bmalczan/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bmalczan/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -470,6 +471,7 @@ Collection of LeetCode questions.
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bmalczan/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bmalczan/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bmalczan/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bmalczan/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bmalczan/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/bmalczan/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
