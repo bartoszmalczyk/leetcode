@@ -43,6 +43,7 @@ Collection of LeetCode questions.
 | [0572-subtree-of-another-tree](https://github.com/bmalczan/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bmalczan/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/bmalczan/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions.
 | [0508-most-frequent-subtree-sum](https://github.com/bmalczan/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/bmalczan/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/bmalczan/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -438,6 +440,7 @@ Collection of LeetCode questions.
 | [0572-subtree-of-another-tree](https://github.com/bmalczan/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bmalczan/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/bmalczan/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -447,6 +450,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0623-add-one-row-to-tree](https://github.com/bmalczan/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 ## Binary Search Tree
