@@ -46,6 +46,7 @@ Collection of LeetCode questions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bmalczan/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ Collection of LeetCode questions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bmalczan/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@ Collection of LeetCode questions.
 | [1512-number-of-good-pairs](https://github.com/bmalczan/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/bmalczan/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/bmalczan/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/bmalczan/leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -453,6 +456,7 @@ Collection of LeetCode questions.
 | [0173-binary-search-tree-iterator](https://github.com/bmalczan/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +473,7 @@ Collection of LeetCode questions.
 | [1323-maximum-69-number](https://github.com/bmalczan/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/bmalczan/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1688-count-of-matches-in-tournament](https://github.com/bmalczan/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/bmalczan/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bmalczan/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -508,6 +513,7 @@ Collection of LeetCode questions.
 | [0152-maximum-product-subarray](https://github.com/bmalczan/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/bmalczan/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/bmalczan/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -522,6 +528,7 @@ Collection of LeetCode questions.
 | [0053-maximum-subarray](https://github.com/bmalczan/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/bmalczan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +602,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -628,4 +636,16 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bmalczan/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
