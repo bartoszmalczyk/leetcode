@@ -23,10 +23,7 @@ class Solution:
         if f1 and f2: 
             return -1
             
-        ans = float('inf')
         if not f2:
-            ans = min(ans, mn_i, (n - mn_i) % n + 2)
+            return min(mn_i, (n - mn_i) % n + 2)
         if not f1:
-            ans = min(ans, mx_i + 1, n - mn_i)
-            
-        return ans
+            return min(mx_i + 1, n - mn_i)
