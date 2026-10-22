@@ -252,6 +252,7 @@ Collection of LeetCode questions.
 | [3898-find-the-degree-of-each-vertex](https://github.com/bmalczan/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/bmalczan/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/bmalczan/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/bmalczan/leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
