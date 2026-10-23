@@ -176,6 +176,7 @@ Collection of LeetCode questions.
 | [0303-range-sum-query-immutable](https://github.com/bmalczan/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0384-shuffle-an-array](https://github.com/bmalczan/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/bmalczan/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0463-island-perimeter](https://github.com/bmalczan/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0495-teemo-attacking](https://github.com/bmalczan/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0525-contiguous-array](https://github.com/bmalczan/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bmalczan/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -260,6 +261,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bmalczan/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/bmalczan/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/bmalczan/leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/bmalczan/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -442,6 +444,7 @@ Collection of LeetCode questions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bmalczan/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bmalczan/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/bmalczan/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bmalczan/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/bmalczan/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/bmalczan/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -457,6 +460,7 @@ Collection of LeetCode questions.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/bmalczan/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0463-island-perimeter](https://github.com/bmalczan/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/bmalczan/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
