@@ -15,6 +15,7 @@ Collection of LeetCode questions.
 | [1486-xor-operation-in-an-array](https://github.com/bmalczan/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bmalczan/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/bmalczan/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +242,7 @@ Collection of LeetCode questions.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bmalczan/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/bmalczan/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bmalczan/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bmalczan/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
