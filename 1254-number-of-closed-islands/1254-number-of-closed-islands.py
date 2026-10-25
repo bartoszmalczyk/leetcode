@@ -14,11 +14,7 @@ class Solution:
             if grid[i][j] == 1:
                 return True
             seen.add((i,j))
-            d1 = dfs(i + 1,j)
-            d2 = dfs(i - 1, j)
-            d3 = dfs(i, j + 1)
-            d4 = dfs(i, j - 1)
-            return d1 and d2 and d3 and d4
+            return dfs(i + 1,j) and dfs(i - 1, j) and dfs(i, j + 1) and dfs(i, j - 1)
         
         for i in range(1, m - 1):
             for j in range(1, n - 1):
