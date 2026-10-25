@@ -197,6 +197,7 @@ Collection of LeetCode questions.
 | [1002-find-common-characters](https://github.com/bmalczan/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/bmalczan/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/bmalczan/leetcode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bmalczan/leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/bmalczan/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/bmalczan/leetcode/tree/main/1436-destination-city/) | Easy |
@@ -267,6 +268,7 @@ Collection of LeetCode questions.
 | [0766-toeplitz-matrix](https://github.com/bmalczan/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/bmalczan/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/bmalczan/leetcode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bmalczan/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bmalczan/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/bmalczan/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -455,6 +457,7 @@ Collection of LeetCode questions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bmalczan/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -465,6 +468,7 @@ Collection of LeetCode questions.
 | [0623-add-one-row-to-tree](https://github.com/bmalczan/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -619,6 +623,7 @@ Collection of LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
