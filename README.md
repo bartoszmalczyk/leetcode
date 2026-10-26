@@ -245,6 +245,7 @@ Collection of LeetCode questions.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bmalczan/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/bmalczan/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bmalczan/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bmalczan/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -279,6 +280,7 @@ Collection of LeetCode questions.
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bmalczan/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/bmalczan/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/bmalczan/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -459,6 +461,7 @@ Collection of LeetCode questions.
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bmalczan/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +472,7 @@ Collection of LeetCode questions.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bmalczan/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/bmalczan/leetcode/tree/main/0655-print-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -625,6 +629,7 @@ Collection of LeetCode questions.
 | [0200-number-of-islands](https://github.com/bmalczan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/bmalczan/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bmalczan/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bmalczan/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
