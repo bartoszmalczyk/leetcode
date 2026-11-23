@@ -118,6 +118,7 @@ Collection of LeetCode questions.
 | [1980-find-unique-binary-string](https://github.com/bmalczan/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bmalczan/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bmalczan/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bartoszmalczyk/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bartoszmalczyk/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/bmalczan/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bmalczan/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
