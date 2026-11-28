@@ -158,6 +158,7 @@ Collection of LeetCode questions.
 | [2352-equal-row-and-column-pairs](https://github.com/bmalczan/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/bmalczan/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bmalczan/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3360-stone-removal-game](https://github.com/bartoszmalczyk/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/bmalczan/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/bmalczan/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Array
@@ -541,6 +542,7 @@ Collection of LeetCode questions.
 | [2409-count-days-spent-together](https://github.com/bmalczan/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bmalczan/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/bmalczan/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3360-stone-removal-game](https://github.com/bartoszmalczyk/leetcode/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bmalczan/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/bmalczan/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bmalczan/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
